@@ -8,4 +8,3 @@ Terraria client written in Python
 + Add send message to server function
 + Fix can not use Chinese in message and character name
 ## contribute
-+ Jonesn(Don't use Github)
